@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82680440512",
+    "firebase_url": "https://trackem-8f860.firebaseio.com",
+    "project_id": "trackem-8f860",
+    "storage_bucket": "trackem-8f860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82680440512:android:c72d28392a3da36e666f25",
+        "android_client_info": {
+          "package_name": "com.example.trackem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82680440512-1lbigd4eijcfnde5m0vte0ii8k78jtkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackem",
+            "certificate_hash": "f546e377163d782a9940cf9fff5f71c55efeaa2a"
+          }
+        },
+        {
+          "client_id": "82680440512-qaiqrt4o4q51ff88svd9l15g4g9rih4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-fH5Of4XawORS0kIm06YTHZ_O32xY8SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82680440512-qaiqrt4o4q51ff88svd9l15g4g9rih4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

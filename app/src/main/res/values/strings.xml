@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">TrackEm</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="google_place_api">AIzaSyBejQddjRMyKdk1peLxP_CUgcL8wB-4ROc</string>
+
+
+    <string name="convert">Convert</string>
+    <string name="zero">00</string>
+
+
+    <string name="usdtxt">USD</string>
+
+
+    <!--this below is for conversion-->
+    <string name="eurtxt">EUR</string>
+    <string name="inrtxt">INR</string>
+
+
+    <string-array name="categoryExp">
+        <item>-</item>
+        <item>Food</item>
+        <item>Social Life</item>
+        <item>Shopping</item>
+        <item>Fundoos</item>
+        <item>Transportation</item>
+        <item>Household</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Gift</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="categoryInc">
+        <item>-</item>
+        <item>Allowance</item>
+        <item>Petty Cash</item>
+        <item>Salary</item>
+        <item>Bonus</item>
+        <item>Wallet</item>
+
+    </string-array>
+    <string-array name="account">
+        <item>-</item>
+        <item>Cash</item>
+        <item>Card</item>
+        <item>Accounts</item>
+        <item>Loan</item>
+
+    </string-array>
+
+    <string-array name="currency">
+        <item>USD</item>
+        <item>Euro</item>
+        <item>INR</item>
+    </string-array>
+
+
+</resources>
